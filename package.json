@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1",
+	"author": "Derick Enow",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
